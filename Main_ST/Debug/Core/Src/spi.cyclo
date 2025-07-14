@@ -1,0 +1,7 @@
+../Core/Src/spi.c:30:6:MX_SPI1_Init	2
+../Core/Src/spi.c:62:6:HAL_SPI_MspInit	2
+../Core/Src/spi.c:101:6:HAL_SPI_MspDeInit	2
+../Core/Src/spi.c:128:6:CS_Select_PA4	1
+../Core/Src/spi.c:132:6:CS_Deselect_PA4	1
+../Core/Src/spi.c:136:6:CS_Select_PA15	1
+../Core/Src/spi.c:140:6:CS_Deselect_PA15	1

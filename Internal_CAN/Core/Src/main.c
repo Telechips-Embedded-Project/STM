@@ -146,7 +146,7 @@ int main(void)
 			flag &= ~(0b11 << 14);
 			flag |= 0b10 << 14;
 		}
-		else if(Concentration >= 1200){
+		else if(Concentration >= 1500){
 			flag &= ~(0b11 << 14);
 			flag |= 0b1 << 14;
 		}

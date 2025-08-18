@@ -1,4 +1,6 @@
 # STM32F429zi
+![KakaoTalk_20250818_142038462](https://github.com/user-attachments/assets/6e8cd265-dc8f-46f0-81a6-7365eeb9d243)
+
 This repository contains the STM32 project directories for our second final project.
 
 The entry points of the applications are located at:

@@ -1,8 +1,10 @@
 # STM32F429zi
 This repository contains the STM32 project directories for our second final project.
+
 The entry points of the applications are located at:
 
 /External_CAN/Core/Src/main.c
+
 /Internal_CAN/Core/Src/main.c
 
 ## External_CAN
